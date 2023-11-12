@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+body{
+	width:1100px
+}
+.col1{
+	width:200px;
+}
+.col2{
+	width:600px;
+}
+.col3{
+	width:200px;
+}
+table{
+	background-color:gray;
+}
